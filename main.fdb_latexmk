@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1580208546 "/Users/silvanmetzker/Desktop/Bericht PU/main.tex" "/Users/silvanmetzker/Desktop/Bericht PU/main.pdf" "main" 1580208548
-  "/Users/silvanmetzker/Desktop/Bericht PU/main.aux" 1580208547 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/Users/silvanmetzker/Desktop/Bericht PU/main.tex" 1580208546 480 57e923c1f4800fac74b60f6525a2557b ""
+["pdflatex"] 1580217966 "/Users/silvanmetzker/Documents/GitHub/Bericht PU/main.tex" "/Users/silvanmetzker/Documents/GitHub/Bericht PU/main.pdf" "main" 1580217966
+  "/Users/silvanmetzker/Documents/GitHub/Bericht PU/main.aux" 1580217966 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/Users/silvanmetzker/Documents/GitHub/Bericht PU/main.tex" 1580217965 355 694b3f34c6e6c2162c7222e0b624e64c ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -19,11 +19,11 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1580207112 4765010 05efbef9d8b74756c484d2c1537e0442 ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1580207223 4294833 c0b021f45b5aaa339b918b37ca5032d1 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "main.aux" 1580208547 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "main.tex" 1580208546 480 57e923c1f4800fac74b60f6525a2557b ""
+  "main.aux" 1580217966 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "main.tex" 1580217965 355 694b3f34c6e6c2162c7222e0b624e64c ""
   (generated)
-  "/Users/silvanmetzker/Desktop/Bericht PU/main.log"
   "main.log"
+  "/Users/silvanmetzker/Documents/GitHub/Bericht PU/main.log"
   "main.aux"
+  "/Users/silvanmetzker/Documents/GitHub/Bericht PU/main.pdf"
   "main.pdf"
-  "/Users/silvanmetzker/Desktop/Bericht PU/main.pdf"
