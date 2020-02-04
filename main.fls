@@ -10,10 +10,6 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tree-dvips/lingmacros.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tree-dvips/lingmacros.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tree-dvips/tree-dvips.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tree-dvips/tree-dvips.sty
 INPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.aux
 INPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.aux
 OUTPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.aux
@@ -21,11 +17,25 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 OUTPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.pdf
 INPUT /usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.toc
+INPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.toc
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+OUTPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.toc
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.bbl
+INPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.bbl
 INPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.aux
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
