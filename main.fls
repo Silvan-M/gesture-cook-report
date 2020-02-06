@@ -10,33 +10,50 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.aux
-INPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.aux
-OUTPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.aux
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-OUTPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.pdf
-INPUT /usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.toc
-INPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.toc
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-OUTPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.toc
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.bbl
-INPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.bbl
-INPUT /Users/silvanmetzker/Documents/GitHub/Bericht PU/main.aux
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/babel/switch.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/babel-german/german.ldf
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/babel-german/german.ldf
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/babel-german/germanb.ldf
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT /dev/null
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
+INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/l3deprecation.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/l3deprecation.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def

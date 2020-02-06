@@ -1,0 +1,8 @@
+{
+    "ltex.ignoreRuleInSentence": [
+        {
+            "rule": "SWISS_GERMAN_SPELLER_RULE",
+            "sentence": "^\\QGestensteuerung mithilfe Künstlicher Intelligenz 28. Januar, 2020 Silvan Metzker, Projektunterricht, Leitung: Patric Rousselot\\E$"
+        }
+    ]
+}
