@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.1.28)  8 FEB 2020 16:53
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.1.28)  8 FEB 2020 18:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -411,18 +411,14 @@ Underfull \hbox (badness 6592) in paragraph at lines 21--25
 ation, htt-
  []
 
-) [15] (./main.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+) [15] (./main.aux) ) 
 Here is how much of TeX's memory you used:
  16660 strings out of 492472
  306668 string characters out of 6129298
- 645235 words of memory out of 5000000
+ 644235 words of memory out of 5000000
  21070 multiletter control sequences out of 15000+600000
  535194 words of font info for 48 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 48i,8n,53p,2020b,2146s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,8n,53p,2050b,2146s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on main.pdf (16 pages).
