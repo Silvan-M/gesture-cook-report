@@ -1,8 +1,32 @@
 \begin{thebibliography}{1}
 
 \bibitem{tableviewvideo}
-S~Allen.
-\newblock Swift uitableview tutorial with custom cells - beginner series.
-\newblock {\em YouTube, https://www.youtube.com/watch?v=FtO5QT2D\_H8\&t}, 2017.
+Sean Allen.
+\newblock Swift {UITableView} tutorial with custom cells---{Beginner} series.
+\newblock YouTube, 2017.
+\newblock \url{https://www.youtube.com/watch?v=FtO5QT2D_H8&t}.
+
+\bibitem{bray2000extensible}
+Tim Bray, Jean Paoli, C~Michael Sperberg-McQueen, Eve Maler, Franois Yergeau,
+  et~al.
+\newblock Extensible markup language (xml) 1.0, 2000.
+
+\bibitem{xmlParserIosCreator}
+Arthur Knopper.
+\newblock Parse xml ios tutorial.
+\newblock {\em IOSCREATOR,
+  https://www.ioscreator.com/tutorials/parse-xml-ios-tutorial}, 2019.
+
+\bibitem{tableViewApple}
+Apple.
+\newblock Uitableview.
+\newblock {\em Apple Developer Documentation,
+  https://developer.apple.com/documentation/uikit/uitableview}, 2020.
+
+\bibitem{gesturecontrolvideo}
+Brian Advent.
+\newblock Build a cool touchless gesture ui with core ml and vision. ios
+  machine learning tutorial, 2019.
+\newblock \url{https://www.youtube.com/watch?v=G7DYmhZMz6k}.
 
 \end{thebibliography}
