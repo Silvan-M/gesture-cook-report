@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.1.28)  8 FEB 2020 18:19
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.1.28)  25 FEB 2020 23:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -362,10 +362,21 @@ File: pictures/GestureCookLogo.png Graphic file (type bmp)
 
 [1
 
-]
+] (./main.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [1]
 File: pictures/Sketch.png Graphic file (type bmp)
 <pictures/Sketch.png>
- [1] [2] [3]
+ [2] [3]
 (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 )
@@ -378,10 +389,10 @@ File: lstlang3.sty 2019/09/10 1.8c listings language file
 (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
 ) [4]
-[5]
+[5] [6]
 File: pictures/TableView.jpg Graphic file (type bmp)
 <pictures/TableView.jpg>
- [6] [7]
+ [7] [8]
 File: pictures/CreateML.png Graphic file (type bmp)
 <pictures/CreateML.png>
 File: pictures/unklargeste.jpg Graphic file (type bmp)
@@ -392,14 +403,12 @@ File: pictures/klarfaust.jpg Graphic file (type bmp)
 <pictures/klarfaust.jpg>
 File: pictures/klaroffen.jpg Graphic file (type bmp)
 <pictures/klaroffen.jpg>
- [8] [9] [10] [11] [12] [13] [14] (./main.bbl
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 7.
-
+ [9] [10] [11] [12] [13]
+File: pictures/GestureCookLogo.png Graphic file (type bmp)
+<pictures/GestureCookLogo.png>
+File: pictures/Screenshot.png Graphic file (type bmp)
+<pictures/Screenshot.png>
+ [14] [15] [16] (./main.bbl
 Underfull \hbox (badness 6001) in paragraph at lines 15--19
 []\TU/lmr/m/n/12 Arthur Knopper.  Parse xml ios tutorial.  \TU/lmr/m/it/12 IOSC
 REATOR,
@@ -411,14 +420,14 @@ Underfull \hbox (badness 6592) in paragraph at lines 21--25
 ation, htt-
  []
 
-) [15] (./main.aux) ) 
+) [17] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 16660 strings out of 492472
- 306668 string characters out of 6129298
- 644235 words of memory out of 5000000
- 21070 multiletter control sequences out of 15000+600000
- 535194 words of font info for 48 fonts, out of 8000000 for 9000
+ 16682 strings out of 492472
+ 307014 string characters out of 6129298
+ 647331 words of memory out of 5000000
+ 21087 multiletter control sequences out of 15000+600000
+ 535202 words of font info for 49 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 48i,8n,53p,2050b,2146s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,8n,53p,2536b,2146s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (16 pages).
+Output written on main.pdf (18 pages).

@@ -1,10 +1,10 @@
 \babel@toc {german}{}
-\contentsline {section}{\numberline {1}Vorwort}{1}%
-\contentsline {section}{\numberline {2}Einleitung}{1}%
-\contentsline {section}{\numberline {3}Hauptteil}{1}%
-\contentsline {subsection}{\numberline {3.1}Planung}{1}%
-\contentsline {subsection}{\numberline {3.2}XML-Parser}{3}%
-\contentsline {subsection}{\numberline {3.3}UITableView}{7}%
-\contentsline {subsection}{\numberline {3.4}Künstliche Intelligenz trainieren}{8}%
-\contentsline {subsection}{\numberline {3.5}Künstliche Intelligenz implementieren}{11}%
-\contentsline {section}{\numberline {4}Fazit}{11}%
+\contentsline {section}{\numberline {1}Einleitung}{2}%
+\contentsline {section}{\numberline {2}Umsetzung}{2}%
+\contentsline {subsection}{\numberline {2.1}Planung}{2}%
+\contentsline {subsection}{\numberline {2.2}XML-Parser}{4}%
+\contentsline {subsection}{\numberline {2.3}UITableView}{7}%
+\contentsline {subsection}{\numberline {2.4}Künstliche Intelligenz trainieren}{9}%
+\contentsline {subsection}{\numberline {2.5}Künstliche Intelligenz implementieren}{13}%
+\contentsline {subsection}{\numberline {2.6}Publikation auf dem App Store}{14}%
+\contentsline {section}{\numberline {3}Fazit}{16}%
